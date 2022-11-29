@@ -33,6 +33,6 @@ const start = async () => {
         console.log(e)
     }
 }
-
+console.log('ti pidor')
 start()
 
